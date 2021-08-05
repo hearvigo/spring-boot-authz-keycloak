@@ -21,7 +21,7 @@ keycloak:
   resource: spring-boot-authz-keycloak-web
   ssl-required: external
   credentials:
-    secret: dede7fd6-2817-491c-b7e5-27f65bbb5fc7
+    secret: 7cbe6bb3-4af2-4147-96db-a98e756d6f79
   use-resource-role-mappings: false
   bearer-only: false
   autodetect-bearer-only: false

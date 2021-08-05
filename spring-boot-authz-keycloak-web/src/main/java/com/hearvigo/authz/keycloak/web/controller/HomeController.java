@@ -1,4 +1,4 @@
-package io.vigoz.authz.keycloak.web.controller;
+package com.hearvigo.authz.keycloak.web.controller;
 
 import org.keycloak.KeycloakSecurityContext;
 import org.slf4j.Logger;
